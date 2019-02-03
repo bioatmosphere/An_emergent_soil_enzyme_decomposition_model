@@ -11,7 +11,8 @@ in a format of Jupyter Notebook are deposited.
 
 
 **/Figure_1**
-## All data and jupyter notebooks pertaining to the Figure 1
+
+All data and jupyter notebooks pertaining to the Figure 1
 
 **/Figure_2**
 -Similarly, all data and jupyter notebooks pertaining to the Figure 1
