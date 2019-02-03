@@ -17,12 +17,12 @@ All data and jupyter notebooks pertaining to the Figure 1
 
 **/Figure_2**
 
-Similarly, all data and jupyter notebooks pertaining to the Figure 1
+Similarly, all data and jupyter notebooks pertaining to the Figure 2
 
 **/Figure_3**
 
-Similarly, all data and jupyter notebooks pertaining to the Figure 1
+Similarly, all data and jupyter notebooks pertaining to the Figure 3
 
 **/Figure_4**
 
-Similarly, all data and jupyter notebooks pertaining to the Figure 1
+Similarly, all data and jupyter notebooks pertaining to the Figure 4
