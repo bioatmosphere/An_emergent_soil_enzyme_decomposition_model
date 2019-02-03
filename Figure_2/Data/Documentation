@@ -1,1 +1,5 @@
-All data files in csv format.
+All data files in csv format, among which the 3 files,
+Cellulose_Rate_Sub_Enz_140.csv,
+Cellulose_Rate_Sub_Enz_160.csv,and
+Cellulose_Rate_Sub_Enz_200.csv
+are literally derived by combining the data in the other files.
