@@ -5,3 +5,4 @@ Deposit source data and code supporting our model-based analysis of an  emergent
 the source data and the corresponding code doing the statistical analysis (in R) and drawing plots (in Python 3.6) 
 in a format of Jupyter Notebook are deposited.
 ->With JupyterNotebook, step-by-step analyses are demonstrated, facilicating reproducible analysis.
+** Any questions should be directed to B. Wang at wbwenwu@gmail.com or bw8my@virginia.edu
