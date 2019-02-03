@@ -9,6 +9,7 @@ Any questions should be directed to B. Wang at wbwenwu@gmail.com or bw8my@virgin
 
 **/Source Data**
 
+Data from the model outputs with DEMENT, in contrast to the data presented below what is processed and derived from these data. In addition, parameters setting up the DEMENT is listed. 
 
 **/Figure_1**
 
