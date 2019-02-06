@@ -3,7 +3,7 @@
 
 In detail, this repository stores data & code following the order of figures occurring in our manuscript(by Wang and Allison).For each figure (six in total, of which 2 are supporting figures), the source data and the corresponding code doing the statistical analysis (in R) and drawing plots (in Python 3.6) in the format of Jupyter Notebook are deposited. More importantly, all 'real' source data, which are literally model outputs, are provided. 
 
-With JupyterNotebook, step-by-step analyses are demonstrated, facilicating reproducible analysis.
+With JupyterNotebook, step-by-step analyses are demonstrated, facilicating reproducible analysis. Some essential Python packages, of course, should be installed before any real re-runs.
 
 Any questions should be directed to B. Wang at wbwenwu@gmail.com or bw8my@virginia.edu
 
@@ -17,7 +17,7 @@ All data and jupyter notebooks pertaining to the Figure 1
 
 **/Figure_2**
 
-Similarly, all data and jupyter notebooks pertaining to the Figure 2
+Similarly, all data and jupyter notebooks pertaining to the Figure 2. And the supporting Fig.1 can be derived from here.
 
 **/Figure_3**
 
@@ -25,4 +25,4 @@ Similarly, all data and jupyter notebooks pertaining to the Figure 3
 
 **/Figure_4**
 
-Similarly, all data and jupyter notebooks pertaining to the Figure 4
+Similarly, all data and jupyter notebooks pertaining to the Figure 4. And the supporting Fig.2 can be derived from here.
