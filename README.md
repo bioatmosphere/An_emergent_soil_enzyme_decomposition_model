@@ -1,7 +1,7 @@
 # An-emergent-model-of-organic-matter-decomposition-by-soil-enzymes.
 **This depository deposits source data and code supporting our model-based analysis of an  emergent model of soil enzyme-driven organic matter decomposition**
 
-In detail, this repository stores data & code following the order of figures occurring in our manuscript(by Wang and Allison).For each figure (six in total, of which 2 are supporting figures), the source data and the corresponding code doing the statistical analysis (in R) and drawing plots (in Python 3.6) in the format of Jupyter Notebook are deposited. More importantly, all 'real' source data, which are literally model outputs, are provided in the /Source Data folder.
+In detail, this repository stores data & code following the order of figures occurring in our manuscript(by Wang and Allison).For each figure (six in total, of which 2 are supporting figures), the source data and the corresponding code doing the statistical analysis (in R) and drawing plots (in Python 3.6) in the format of Jupyter Notebook are deposited in seperate folders. More importantly, all 'real' source data, which are literally model outputs, are provided in the /Source Data folder.
 
 With JupyterNotebook, step-by-step analyses are demonstrated, facilicating reproducible analysis. Some essential Python packages, of course, should be installed before any real re-runs.
 
