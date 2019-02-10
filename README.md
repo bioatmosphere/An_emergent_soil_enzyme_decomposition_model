@@ -11,7 +11,7 @@ Any questions should be directed to B. Wang at wbwenwu@gmail.com or bw8my@virgin
 
 **/Source Data**
 
-Data from the model outputs of DEMENT, in contrast to the data presented below which is processed (but just literally data extraction) and derived from these data. In addition, parameters setting up the DEMENT is listed. These data will be available soon by the end of this week (Feb.10th, 2019)
+Data from the model outputs of DEMENT, in contrast to the data presented below which is processed (but just literally data extraction) and derived from these data. How to extract data from these outputs, the code used, is demonstrated in Jupyter Notebooks with R. In addition, parameters setting up the DEMENT is listed.
 
 **/Figure_1**
 
