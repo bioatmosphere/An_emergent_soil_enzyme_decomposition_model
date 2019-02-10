@@ -1,4 +1,6 @@
-These are the 'Source' data directly from the model outputs, from which data for next-step analysis are generated,
-as listed in the other folders labelled with Figure_x.
+These are the 'Source' data directly from the model outputs of DEMENT(version xxxx), from which data for next-step analyses are generated,
+as listed in the other folders labelled with Figure_x. In terms of how-to-generate,code in Jupyter Notebook is provided.
+
+
 
 These data have the potential to be further tapped into for other analyses.
