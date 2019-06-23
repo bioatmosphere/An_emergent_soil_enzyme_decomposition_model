@@ -27,4 +27,4 @@ Similarly, all data and jupyter notebooks pertaining to the Figure 3
 
 **/Figure_4**
 
-Similarly, all data and jupyter notebooks pertaining to the Figure 4. And the supporting Fig.2 can be derived from here.
+Similarly, all data and jupyter notebooks pertaining to the Figure 4. And the supporting Fig.2 and Fig.3 can be derived from here.
