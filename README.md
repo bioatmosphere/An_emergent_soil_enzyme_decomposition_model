@@ -1,10 +1,10 @@
 # An-emergent-model-of-organic-matter-decomposition-by-soil-enzymes.
 **This depository deposits source data and code supporting our model-based analysis of an  emergent model of soil enzyme-driven organic matter decomposition**
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bioatmosphere/bioatmosphere.github.io)
-![GitHub contributors](https://img.shields.io/github/contributors/bioatmosphere/bioatmosphere.github.io)
-![GitHub stars](https://img.shields.io/github/stars/bioatmosphere/bioatmosphere.github.io?style=social)
-![GitHub forks](https://img.shields.io/github/forks/bioatmosphere/bioatmosphere.github.io?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/bioatmosphere/An_emergent_soil_enzyme_decomposition_model)
+![GitHub contributors](https://img.shields.io/github/contributors/bioatmosphere/An_emergent_soil_enzyme_decomposition_model)
+![GitHub stars](https://img.shields.io/github/stars/bioatmosphere/An_emergent_soil_enzyme_decomposition_model?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bioatmosphere/An_emergent_soil_enzyme_decomposition_model?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/bioatmo_sphere?style=social)
 
 
