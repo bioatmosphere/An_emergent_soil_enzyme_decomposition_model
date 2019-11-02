@@ -1,6 +1,11 @@
 # An-emergent-model-of-organic-matter-decomposition-by-soil-enzymes.
 **This depository deposits source data and code supporting our model-based analysis of an  emergent model of soil enzyme-driven organic matter decomposition**
 
+In detail, this repository stores data & code following the order of figures occurring in our manuscript:
+
+**Wang, B., & Allison, S. D. (2019). Emergent properties of organic matter decomposition by soil enzymes. Soil Biology and Biochemistry, 107522.** https://doi.org/10.1016/j.soilbio.2019.107522
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/bioatmosphere/An_emergent_soil_enzyme_decomposition_model)
 ![GitHub contributors](https://img.shields.io/github/contributors/bioatmosphere/An_emergent_soil_enzyme_decomposition_model)
 ![GitHub stars](https://img.shields.io/github/stars/bioatmosphere/An_emergent_soil_enzyme_decomposition_model?style=social)
@@ -10,9 +15,6 @@
 
 ![Emergent Enzyme Kinetics](https://pbs.twimg.com/media/D9zCMN3U8AAq1DF?format=jpg&name=4096x4096)
 
-In detail, this repository stores data & code following the order of figures occurring in our manuscript:
-
-**Wang, B., & Allison, S. D. (2019). Emergent properties of organic matter decomposition by soil enzymes. Soil Biology and Biochemistry, 107522.** https://doi.org/10.1016/j.soilbio.2019.107522
 
 For each figure (seven in total, of which 3 are supporting figures), the source data (.csv) and the corresponding code (.ipynb) doing the statistical analyses (in R/Python) and drawing the figures (in Python 3.6) in Jupyter Notebook are deposited in a seperate folder. More importantly, all 'real' source data, which are literally model outputs, are provided in the /Source Data folder. These source data have the potential to be further tapped into for other analyses.
 
