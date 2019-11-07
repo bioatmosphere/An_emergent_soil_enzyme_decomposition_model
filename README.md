@@ -9,7 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/bioatmosphere/An_emergent_soil_enzyme_decomposition_model?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/bioatmo_sphere?style=social)
 
-![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)])
+![Github All Releases](https://img.shields.io/github/downloads/bioatmosphere/An_emergent_soil_enzyme_decomposition_model/total.svg)
 
 ![Emergent Enzyme Kinetics](https://pbs.twimg.com/media/D9zCMN3U8AAq1DF?format=jpg&name=4096x4096)
 
