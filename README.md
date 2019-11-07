@@ -3,9 +3,10 @@
 
 **Wang, B., & Allison, S. D. (2019). Emergent properties of organic matter decomposition by soil enzymes. Soil Biology and Biochemistry, 107522.** https://doi.org/10.1016/j.soilbio.2019.107522
 
+<!--![GitHub stars](https://img.shields.io/github/stars/bioatmosphere/An_emergent_soil_enzyme_decomposition_model?style=social) -->
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/bioatmosphere/An_emergent_soil_enzyme_decomposition_model)
 ![GitHub contributors](https://img.shields.io/github/contributors/bioatmosphere/An_emergent_soil_enzyme_decomposition_model)
-<!--![GitHub stars](https://img.shields.io/github/stars/bioatmosphere/An_emergent_soil_enzyme_decomposition_model?style=social) -->
 ![GitHub forks](https://img.shields.io/github/forks/bioatmosphere/An_emergent_soil_enzyme_decomposition_model?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/bioatmo_sphere?style=social)
 ![Github All Releases](https://img.shields.io/github/downloads/bioatmosphere/An_emergent_soil_enzyme_decomposition_model/total.svg)
