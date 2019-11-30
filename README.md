@@ -1,5 +1,5 @@
 # An-emergent-model-of-organic-matter-decomposition-by-soil-enzymes.
-**This repository deposits source data and code supporting our model-based analysis of an  emergent model of soil enzyme-driven organic matter decomposition**
+**This repository deposits source data and code supporting our model-based analysis of an  emergent model of soil enzyme-driven organic matter decomposition:**
 
 **Wang, B., & Allison, S. D. (2019). Emergent properties of organic matter decomposition by soil enzymes. Soil Biology and Biochemistry, 107522.** https://doi.org/10.1016/j.soilbio.2019.107522
 
@@ -28,18 +28,18 @@ Any questions should be directed to B. Wang at wbwenwu@gmail.com or bw8my@virgin
 
 Data from the model outputs of DEMENT, in contrast to the data presented below which is processed (but just literally data extraction) and derived from these data. How to extract data from these outputs, the code used, is demonstrated in Jupyter Notebooks with R. In addition, parameters setting up the DEMENT is listed.
 
-**/Figure_1**
+**Figure_1/**
 
 All data and jupyter notebooks pertaining to the Figure 1
 
-**/Figure_2**
+**Figure_2/**
 
 Similarly, all data and jupyter notebooks pertaining to the Figure 2. And the supporting Fig.1 can be derived from here.
 
-**/Figure_3**
+**Figure_3/**
 
 Similarly, all data and jupyter notebooks pertaining to the Figure 3
 
-**/Figure_4**
+**Figure_4**
 
 Similarly, all data and jupyter notebooks pertaining to the Figure 4. And the supporting Fig.2 and Fig.3 can be derived from here.
