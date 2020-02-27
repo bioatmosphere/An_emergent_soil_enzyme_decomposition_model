@@ -1,7 +1,7 @@
 # An-emergent-model-of-organic-matter-decomposition-by-soil-enzymes.
 **This repository deposits source data and code supporting our model-based analysis of Emergent properties of organic matter decomposition by soil enzymes:**
 
-**Wang, B., & Allison, S. D. (2019). Emergent properties of organic matter decomposition by soil enzymes. Soil Biology and Biochemistry, 107522.** https://doi.org/10.1016/j.soilbio.2019.107522
+**Wang, B., & Allison, S. D. (2019). [Emergent properties of organic matter decomposition by soil enzymes](https://doi.org/10.1016/j.soilbio.2019.107522). Soil Biology and Biochemistry, 107522.** 
 
 <!--![GitHub stars](https://img.shields.io/github/stars/bioatmosphere/An_emergent_soil_enzyme_decomposition_model?style=social) -->
 
